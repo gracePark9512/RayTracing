@@ -1,0 +1,3 @@
+/home/cshome/h/hpark/COSC342/assign02/RayTracer/build/CMakeFiles/rebuild_cache.dir
+/home/cshome/h/hpark/COSC342/assign02/RayTracer/build/CMakeFiles/edit_cache.dir
+/home/cshome/h/hpark/COSC342/assign02/RayTracer/build/CMakeFiles/rayTracer.dir
